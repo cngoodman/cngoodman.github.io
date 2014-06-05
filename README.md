@@ -1,4 +1,4 @@
-cngoodman.github.com
+cngoodman.github.io
 ====================
 
 blog
